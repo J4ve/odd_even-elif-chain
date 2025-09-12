@@ -41,7 +41,7 @@ elif num == 3:
 
 4. Insert your line in the correct order (ascending).  
 5. Do not edit or remove other contributors’ numbers.  
-6. No bots or automation—this is a human-only effort.  
+6. No bots or automation. This is a human-only effort.  
 
 ---
 
