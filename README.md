@@ -57,6 +57,8 @@ Sometimes it’s about building something absurd together.
 
 ## Goals
 - [X] Create this repo
+- [ ] Reach 100 numbers
+- [ ] Reach 500 numbers
 - [ ] Reach 1,000 numbers  
 - [ ] Reach 10,000 numbers  
 - [ ] Hit GitHub limits  
