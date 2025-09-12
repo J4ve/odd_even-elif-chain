@@ -18,6 +18,9 @@ def main():
         print("odd")
     elif num == 4:
         print("even")
+
+    elif num == 18:
+        print("even") #I WAS HERE RAAAH -Kento
     # Add more xdddd
 
     else:
@@ -25,3 +28,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
