@@ -15,7 +15,7 @@ Example:
 
 ```python
 if num == 1:
-    print("odd")
+    print("odd") # Added by 
 elif num == 2:
     print("even")
 elif num == 3:
@@ -31,12 +31,17 @@ elif num == 3:
 
    ```python
    elif num == YOUR_NUMBER:
-       print("odd")  # or "even"
+       print("odd")  # or "even"  # Added by YOUR-GITHUB-USERNAME
    ```
+   Example:
+  ```python
+    elif num == 10:
+        print("even")  # Added by @J4ve
+  ```
 
-3. Insert your line in the correct order (ascending).  
-4. Do not edit or remove other contributors’ numbers.  
-5. No bots or automation—this is a human-only effort.  
+4. Insert your line in the correct order (ascending).  
+5. Do not edit or remove other contributors’ numbers.  
+6. No bots or automation—this is a human-only effort.  
 
 ---
 
@@ -50,8 +55,7 @@ The script asks for a number and checks it against the massive `if/elif` chain.
 ---
 
 ## Why?
-Because programming is not always about efficiency.  
-Sometimes it’s about building something absurd together.  
+Why not??
 
 ---
 
@@ -101,5 +105,9 @@ If this is your first time contributing to open source, follow these steps:
 
 7. **Open a Pull Request**  
    Go to your fork on GitHub, and click the "Compare & pull request" button.  
-   Submit your PR and wait for it to be reviewed/merged.  
+   Submit your PR and wait for it to be reviewed/merged.
+
+### Still new to open source? Check this beginner-friendly guide:  
+[First Contributions](https://github.com/firstcontributions/first-contributions)
+
 
