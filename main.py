@@ -21,6 +21,9 @@ def main():
 
     elif num == 18:
         print("even") #I WAS HERE RAAAH -Kento
+    
+    elif num == 28:
+        print("even") # Birthday ko yan -Elmo
     # Add more xdddd
 
     else:
@@ -28,4 +31,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
